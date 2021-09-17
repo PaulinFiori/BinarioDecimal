@@ -1,4 +1,4 @@
-# BinarioDecimal
+# Binario Decimal
 Conversor binário para decimal
 
 Este programa converter número binário, apartir do número que o usuário digita, para número decimal.
